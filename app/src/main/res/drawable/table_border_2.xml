@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Left Border -->
+    <item android:left="2dp">
+        <shape>
+            <solid android:color="#0F0403" />
+            <size
+                android:width="50dp"
+                android:height="50dp" />
+        </shape>
+    </item>
+
+    <!-- Right Border -->
+    <item android:right="2dp">
+        <shape>
+            <solid android:color="#0F0808" /> <!-- Transparent background -->
+            <size
+                android:width="50dp"
+                android:height="50dp" /> <!-- Right border with 2dp width -->
+        </shape>
+    </item>
+
+    <!-- Bottom Border -->
+    <item android:bottom="2dp">
+        <shape>
+            <solid android:color="@color/white" /> <!-- Transparent background -->
+            <size
+                android:width="50dp"
+                android:height="50dp" /> <!-- Bottom border with 2dp height -->
+        </shape>
+    </item>
+
+</layer-list>

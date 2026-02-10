@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#87CEFA</color>
+    <color name="transparent">#00000000</color>
+    <color name="help_text_selected">#092BE7</color>
+    <color name="help_text_default">#FF000000</color>
+
+    <color name="sky_blue_light">#87CEEB</color>
+    <color name="sky_blue">#1E90FF</color>
+    <color name="sky_blue_dark">#0077BE</color>
+
+    <color name="toggle_off_color">#757575</color> <!-- Gray for off state -->
+    <color name="toggle_on_color">#1E90FF</color> <!-- Green for on state -->
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gold_star">#FFD700</color> <!-- filled star color -->
+    <color name="black_border">#000000</color> <!-- unfilled star border color -->
+
+</resources>

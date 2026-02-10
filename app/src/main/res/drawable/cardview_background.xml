@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color -->
+    <solid android:color="#FFFFFF"/> <!-- White color -->
+
+    <!-- Corner radius to make it rounded like CardView -->
+    <corners android:radius="8dp"/> <!-- You can adjust the radius as needed -->
+
+    <!-- Shadow to mimic CardView's elevation (Optional) -->
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp" />
+</shape>
